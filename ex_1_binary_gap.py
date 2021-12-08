@@ -135,4 +135,4 @@ class TestBinaryGap(unittest.TestCase):
         self.assertRaises(ValueError, binary_gap, 2147483648)
 
 if __name__ == '__main__':
-    binary_gap(894)
+    unittest.main()
