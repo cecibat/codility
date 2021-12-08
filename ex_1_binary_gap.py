@@ -66,7 +66,7 @@ def binary_gap(N):
   return result
 
 """
-Test cases from codility.com
+Test cases from codility.com. 
 """
 class TestBinaryGap(unittest.TestCase):
 
